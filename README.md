@@ -6,8 +6,8 @@ Le résultat de cet analyse se fait sur un ensemble limité de tweet et se compo
  - le tweet le plus positif et le plus négatif
 
 Stack technique et outils:
- - Node.js - express.js
- - Vue.js
+ - Node.js - express.js `/server`
+ - Vue.js `/client`
  - [Bulma](https://bulma.io/) 
  - [Google Cloud Natural Language (sentimental analysis)](https://cloud.google.com/natural-language)
  - [API Twitter](https://developer.twitter.com/en/docs)
